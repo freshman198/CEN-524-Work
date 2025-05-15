@@ -1,0 +1,11 @@
+Conversation_ID,Customer_Issue,Tech_Response,Resolution_Time,Issue_Category,Issue_Status
+C001,Internet connection is dropping intermittently.,Restarted the router and updated firmware.,25,Network,Resolved
+C002,Cannot log in to the software after update.,Guided user to reset password and clear cache.,15,Software,Resolved
+C003,Receiving 'Payment Failed' error during subscription renewal.,Checked billing system and asked user to update payment method.,30,Account,Resolved
+C004,Laptop not connecting to Wi-Fi after recent OS update.,Rolled back network drivers to a previous version.,45,Network,Resolved
+C005,Account locked after multiple failed login attempts.,Unlocked account and recommended enabling two-factor authentication.,10,Account,Resolved
+C006,Application crashes on launch with no error message.,Collected log files and escalated to development team.,60,Software,Pending
+C007,User not receiving password reset email.,Checked email server logs and asked user to check spam folder.,20,Account,Resolved
+C008,Cannot access shared drive on company network.,Remapped the network drive and refreshed DNS cache.,35,Network,Resolved
+C009,Software installation fails with 'Insufficient Permissions' error.,Ran installer as admin and modified folder access permissions.,40,Software,Resolved
+C010,Mobile app not syncing data with web account.,Re-authenticated the app session and synced manually from the server.,22,Software,Resolved
